@@ -31,16 +31,6 @@
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue">
   <img height="40" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" title="Jquery">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" title="Markdown">
-  <style>
-    .technologies-used {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    img {
-      margin: 0 5px 0 5px;
-    }
-  </style>
 </div>
 
 -----
