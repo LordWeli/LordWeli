@@ -22,6 +22,7 @@
   </div>
 
 -----
+
 * ### Tecnologias já utilizadas
 <div align="center" class="technologies-used">
   <img height="35" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" title="Ruby On Rails">
@@ -37,17 +38,22 @@
 </div>
 
 -----
+
 * ### Estatísticas do perfil
 <center>
 
-![Snake animation](https://github.com/LordWeli/LordWeli/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LordWeli/LordWeli/blob/output/github-contribution-grid-snake.svg)
+
+</center>
 
 <a href="https://github.com/LordWeli/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordweli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=lordweli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordweli&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordweli&layout=compact&langs_count=16&theme=dracula"/>
 </a>
-</center>
+
 
 <!--
 **LordWeli/LordWeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
