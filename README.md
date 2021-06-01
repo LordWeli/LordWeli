@@ -42,12 +42,13 @@
 
 ![Snake animation](https://github.com/LordWeli/LordWeli/blob/output/github-contribution-grid-snake.svg)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lordweli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="200px"/>
+<a href="https://github.com/LordWeli/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordweli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordweli&layout=compact&langs_count=16&theme=dracula" height="200px"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordweli&layout=compact&langs_count=16&theme=dracula"/>
+</a>
 </center>
+
 <!--
 **LordWeli/LordWeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
