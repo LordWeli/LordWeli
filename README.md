@@ -18,6 +18,8 @@
     </a>&nbsp;
     <a href="https://www.instagram.com/wesleysena.dev/" target="_blank">
       <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram">
+    <a href="https://www.twitch.tv/wesleysenadev/" target="_blank">
+      <img height="30" src="https://img.shields.io/badge/Twitch-8D40E4?style=for-the-badge&logo=twitch&logoColor=white" title="Twitch">
     </a>&nbsp;
   </div>
 
