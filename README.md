@@ -33,17 +33,17 @@ Hi! I'm a backend-focused developer with a degree in Information Systems from Es
 <p>
   <a href="https://github.com/LordWeli/EpicTracker"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-epictracker-dark.svg">
-    <img src="./assets/en/project-epictracker-light.svg" width="100%" alt="EpicTracker: how long it would take to beat an entire Epic Games library, using HowLongToBeat data. Rails, React, TypeScript, Tailwind.">
+    <img src="./assets/en/project-epictracker-light.svg" width="100%" alt="EpicTracker: matches the games in your Epic Games library with HowLongToBeat data to show how long each one takes to beat. Rails, React, TypeScript, Tailwind.">
   </picture></a>
 </p>
 <p>
   <a href="https://github.com/LordWeli/TaskDone"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-taskdone-dark.svg">
-    <img src="./assets/en/project-taskdone-light.svg" width="33%" alt="TaskDone: daily task app with light gamification. TypeScript, PWA, Vitest.">
+    <img src="./assets/en/project-taskdone-light.svg" width="33%" alt="TaskDone: PWA for daily task lists, gamified with XP, streaks and achievements. TypeScript, PWA, Vitest.">
   </picture></a>
   <a href="https://wesleynogueira.com"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-site-dark.svg">
-    <img src="./assets/en/project-site-light.svg" width="33%" alt="wesleynogueira.com: bilingual personal site with content, e2e and accessibility tests. Next.js, Playwright.">
+    <img src="./assets/en/project-site-light.svg" width="33%" alt="wesleynogueira.com: personal website (PT/EN) with content, e2e and accessibility tests. Next.js, Playwright.">
   </picture></a>
   <a href="https://github.com/LordWeli/work_vision"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-workvision-dark.svg">
