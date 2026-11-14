@@ -1,74 +1,45 @@
-## Olá, sou Wesley Sena! :rainbow: :cat: :earth_americas:
-  :books: Técnico em Informática pela [EEETEPA](#).</br>
-  :school: Cursando Sistemas de Informação na Faculdade [Estácio de Sá](#).</br>
-  :computer: Sempre se superando e buscando aprender e aplicar novas ideias e aprendizados.</br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Wesley Sena Nogueira, com o gráfico de contribuições no GitHub dos últimos 12 meses">
+</picture>
 
-## Sobre mim
-  Técnico em Informática, Desenvolvedor de Sistemas, estudante de Sistemas de Informação pela Universidade Estácio de Sá, buscando cada vez mais novas melhorias e aprendizados, amante de novos desafios. :grin:
-  
-  <div align="center">
-    <a href="https://github.com/LordWeli/" target="_blank">
-      <img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub">
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/wesley-sena-nogueira/" target="_blank">
-      <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn">
-    </a>&nbsp;
-    <a href="mailto:wesleysena.dev@gmail.com">
-      <img height="30" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
-    </a>&nbsp;
-    <a href="https://www.instagram.com/wesleysena.dev/" target="_blank">
-      <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram">
-    <a href="https://www.twitch.tv/wesleysenadev/" target="_blank">
-      <img height="30" src="https://img.shields.io/badge/Twitch-8D40E4?style=for-the-badge&logo=twitch&logoColor=white" title="Twitch">
-    </a>&nbsp;
-  </div>
+Olá! Sou desenvolvedor com foco em backend, formado em Sistemas de Informação pela Estácio e também técnico em informática pela EETEPA. Aqui você vai encontrar algumas coisas que construo fora do trabalho. A maioria nasceu de alguma dúvida, dificuldade e coisas que eu queria utilizar. De vez em quando também estou ao vivo na [Twitch](https://www.twitch.tv/wesleysenadev/).
 
------
+[Site](https://wesleynogueira.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/wesley-sena-nogueira/) &nbsp;/&nbsp; [E-mail](mailto:wesleysena.dev@gmail.com) &nbsp;/&nbsp; [Instagram](https://www.instagram.com/wesleysena.dev/)
 
-* ### Tecnologias já utilizadas
-<div align="center" class="technologies-used">
-  <img height="35" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" title="Ruby On Rails">
-  <img height="30" width="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" title="Ruby">
-  <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" title="Graphql">
-  <img height="35" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML">
-  <img height="35" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS">
-  <img height="35" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" title="React Native">
-  <img height="40" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git">
-  <img height="35" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript">
-  <img height="35" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue">
-  <img height="40" width="40" align="center" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" title="Jquery">
-  <img height="30" width="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" title="Markdown">
-</div>
+<br>
 
------
+## Projetos
 
-* ### Estatísticas do perfil
-<center>
+<p>
+  <a href="https://github.com/LordWeli/EpicTracker"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-epictracker-dark.svg">
+    <img src="./assets/project-epictracker-light.svg" width="100%" alt="EpicTracker: quanto tempo levaria pra zerar a biblioteca da Epic Games, com dados do HowLongToBeat. Rails, React, TypeScript, Tailwind.">
+  </picture></a>
+</p>
+<p>
+  <a href="https://github.com/LordWeli/TaskDone"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-taskdone-dark.svg">
+    <img src="./assets/project-taskdone-light.svg" width="32.3%" alt="TaskDone: app de tarefas diárias com gamificação leve. TypeScript, PWA, Vitest.">
+  </picture></a>
+  <a href="https://wesleynogueira.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-site-dark.svg">
+    <img src="./assets/project-site-light.svg" width="32.3%" alt="wesleynogueira.com: site pessoal bilíngue com testes de conteúdo, e2e e acessibilidade. Next.js, Playwright.">
+  </picture></a>
+  <a href="https://github.com/LordWeli/work_vision"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-workvision-dark.svg">
+    <img src="./assets/project-workvision-light.svg" width="32.3%" alt="Work Vision: vitrine para profissionais divulgarem seus serviços e receberem pedidos. Rails.">
+  </picture></a>
+</p>
 
-  ![Snake animation](https://github.com/LordWeli/LordWeli/blob/output/github-contribution-grid-snake.svg)
+- Em 2020  fiz o projeto [COVID19-PA](https://github.com/LordWeli/COVID19-PA), um mapa dos casos de COVID-19 no estado do Pará, utilizando os dados abertos do Brasil.IO. 
+- Sempre estou me aventurando aprendendo alguma nova tecnologia. Atualmente estou aprendendo **Golang** com implementação de **LLM** e **RAG**.
 
-</center>
+<br>
 
-<a href="https://github.com/LordWeli/">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=lordweli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## Tecnologias com que trabalho
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordweli&layout=compact&langs_count=16&theme=dracula"/>
-</a>
-
-
-<!--
-**LordWeli/LordWeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" width="100%" alt="Ruby, Rails, TypeScript, JavaScript, Python, Go (estudando), PostgreSQL, Redis, Sidekiq, Kafka, RabbitMQ, GraphQL, React, Next.js, Vue, Tailwind, AWS, Docker, Sentry, New Relic.">
+</picture>
