@@ -10,19 +10,19 @@ Olá! Sou desenvolvedor com foco em backend, formado em Sistemas de Informação
 <p>
   <a href="https://wesleynogueira.com/"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/contacts/contact-website-dark.svg">
-    <img src="./assets/br/contacts/contact-website-light.svg" width="24.2%" alt="Site: wesleynogueira.com">
+    <img src="./assets/br/contacts/contact-website-light.svg" width="24.6%" alt="Site: wesleynogueira.com">
   </picture></a>
   <a href="https://www.linkedin.com/in/wesley-sena-nogueira/"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/contacts/contact-linkedin-dark.svg">
-    <img src="./assets/br/contacts/contact-linkedin-light.svg" width="24.2%" alt="LinkedIn: in/wesley-sena-nogueira">
+    <img src="./assets/br/contacts/contact-linkedin-light.svg" width="24.6%" alt="LinkedIn: in/wesley-sena-nogueira">
   </picture></a>
   <a href="mailto:wesleysena.dev@gmail.com"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/contacts/contact-email-dark.svg">
-    <img src="./assets/br/contacts/contact-email-light.svg" width="24.2%" alt="E-mail: wesleysena.dev@gmail.com">
+    <img src="./assets/br/contacts/contact-email-light.svg" width="24.6%" alt="E-mail: wesleysena.dev@gmail.com">
   </picture></a>
   <a href="https://www.instagram.com/wesleysena.dev/"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/contacts/contact-instagram-dark.svg">
-    <img src="./assets/br/contacts/contact-instagram-light.svg" width="24.2%" alt="Instagram: @wesleysena.dev">
+    <img src="./assets/br/contacts/contact-instagram-light.svg" width="24.6%" alt="Instagram: @wesleysena.dev">
   </picture></a>
 </p>
 
@@ -39,15 +39,15 @@ Olá! Sou desenvolvedor com foco em backend, formado em Sistemas de Informação
 <p>
   <a href="https://github.com/LordWeli/TaskDone"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/project-taskdone-dark.svg">
-    <img src="./assets/br/project-taskdone-light.svg" width="32.3%" alt="TaskDone: app de tarefas diárias com gamificação leve. TypeScript, PWA, Vitest.">
+    <img src="./assets/br/project-taskdone-light.svg" width="33%" alt="TaskDone: app de tarefas diárias com gamificação leve. TypeScript, PWA, Vitest.">
   </picture></a>
   <a href="https://wesleynogueira.com"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/project-site-dark.svg">
-    <img src="./assets/br/project-site-light.svg" width="32.3%" alt="wesleynogueira.com: site pessoal bilíngue com testes de conteúdo, e2e e acessibilidade. Next.js, Playwright.">
+    <img src="./assets/br/project-site-light.svg" width="33%" alt="wesleynogueira.com: site pessoal bilíngue com testes de conteúdo, e2e e acessibilidade. Next.js, Playwright.">
   </picture></a>
   <a href="https://github.com/LordWeli/work_vision"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/project-workvision-dark.svg">
-    <img src="./assets/br/project-workvision-light.svg" width="32.3%" alt="Work Vision: vitrine para profissionais divulgarem seus serviços e receberem pedidos. Rails.">
+    <img src="./assets/br/project-workvision-light.svg" width="33%" alt="Work Vision: vitrine para profissionais divulgarem seus serviços e receberem pedidos. Rails.">
   </picture></a>
 </p>
 
