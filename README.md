@@ -1,45 +1,47 @@
+<p align="right"><sub><b>English</b> &nbsp;·&nbsp; <a href="./README.pt-BR.md">Português</a></sub></p>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Wesley Sena Nogueira, com o gráfico de contribuições no GitHub dos últimos 12 meses">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/en/header-dark.svg">
+  <img src="./assets/en/header-light.svg" width="100%" alt="Wesley Sena Nogueira, with a chart of GitHub contributions over the last 12 months">
 </picture>
 
-Olá! Sou desenvolvedor com foco em backend, formado em Sistemas de Informação pela Estácio e também técnico em informática pela EETEPA. Aqui você vai encontrar algumas coisas que construo fora do trabalho. A maioria nasceu de alguma dúvida, dificuldade e coisas que eu queria utilizar. De vez em quando também estou ao vivo na [Twitch](https://www.twitch.tv/wesleysenadev/).
+Hi! I'm a backend-focused developer with a degree in Information Systems from Estácio and, before that, a technical diploma in IT from EETEPA. Here you'll find some of the things I build outside of work. Most of them started from a question, a pain point, or something I wanted to use myself. Every now and then I also stream on [Twitch](https://www.twitch.tv/wesleysenadev/).
 
-[Site](https://wesleynogueira.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/wesley-sena-nogueira/) &nbsp;/&nbsp; [E-mail](mailto:wesleysena.dev@gmail.com) &nbsp;/&nbsp; [Instagram](https://www.instagram.com/wesleysena.dev/)
+[Website](https://wesleynogueira.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/wesley-sena-nogueira/) &nbsp;/&nbsp; [Email](mailto:wesleysena.dev@gmail.com) &nbsp;/&nbsp; [Instagram](https://www.instagram.com/wesleysena.dev/)
 
 <br>
 
-## Projetos
+## Projects
 
 <p>
   <a href="https://github.com/LordWeli/EpicTracker"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-epictracker-dark.svg">
-    <img src="./assets/project-epictracker-light.svg" width="100%" alt="EpicTracker: quanto tempo levaria pra zerar a biblioteca da Epic Games, com dados do HowLongToBeat. Rails, React, TypeScript, Tailwind.">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-epictracker-dark.svg">
+    <img src="./assets/en/project-epictracker-light.svg" width="100%" alt="EpicTracker: how long it would take to beat an entire Epic Games library, using HowLongToBeat data. Rails, React, TypeScript, Tailwind.">
   </picture></a>
 </p>
 <p>
   <a href="https://github.com/LordWeli/TaskDone"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-taskdone-dark.svg">
-    <img src="./assets/project-taskdone-light.svg" width="32.3%" alt="TaskDone: app de tarefas diárias com gamificação leve. TypeScript, PWA, Vitest.">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-taskdone-dark.svg">
+    <img src="./assets/en/project-taskdone-light.svg" width="32.3%" alt="TaskDone: daily task app with light gamification. TypeScript, PWA, Vitest.">
   </picture></a>
   <a href="https://wesleynogueira.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-site-dark.svg">
-    <img src="./assets/project-site-light.svg" width="32.3%" alt="wesleynogueira.com: site pessoal bilíngue com testes de conteúdo, e2e e acessibilidade. Next.js, Playwright.">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-site-dark.svg">
+    <img src="./assets/en/project-site-light.svg" width="32.3%" alt="wesleynogueira.com: bilingual personal site with content, e2e and accessibility tests. Next.js, Playwright.">
   </picture></a>
   <a href="https://github.com/LordWeli/work_vision"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-workvision-dark.svg">
-    <img src="./assets/project-workvision-light.svg" width="32.3%" alt="Work Vision: vitrine para profissionais divulgarem seus serviços e receberem pedidos. Rails.">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-workvision-dark.svg">
+    <img src="./assets/en/project-workvision-light.svg" width="32.3%" alt="Work Vision: a showcase where professionals promote their services and receive requests. Rails.">
   </picture></a>
 </p>
 
-- Em 2020  fiz o projeto [COVID19-PA](https://github.com/LordWeli/COVID19-PA), um mapa dos casos de COVID-19 no estado do Pará, utilizando os dados abertos do Brasil.IO. 
-- Sempre estou me aventurando aprendendo alguma nova tecnologia. Atualmente estou aprendendo **Golang** com implementação de **LLM** e **RAG**.
+- In 2020 I built [COVID19-PA](https://github.com/LordWeli/COVID19-PA), a map of COVID-19 cases in the state of Pará, using open data from Brasil.IO.
+- I'm always venturing into some new technology. Right now I'm learning **Golang** by building with **LLMs** and **RAG**.
 
 <br>
 
-## Tecnologias com que trabalho
+## Technologies I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img src="./assets/stack-light.svg" width="100%" alt="Ruby, Rails, TypeScript, JavaScript, Python, Go (estudando), PostgreSQL, Redis, Sidekiq, Kafka, RabbitMQ, GraphQL, React, Next.js, Vue, Tailwind, AWS, Docker, Sentry, New Relic.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/en/stack-dark.svg">
+  <img src="./assets/en/stack-light.svg" width="100%" alt="Ruby, Rails, TypeScript, JavaScript, Python, Go (learning), PostgreSQL, Redis, Sidekiq, Kafka, RabbitMQ, GraphQL, React, Next.js, Vue, Tailwind, AWS, Docker, Sentry, New Relic.">
 </picture>
