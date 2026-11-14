@@ -39,15 +39,15 @@ Olá! Sou desenvolvedor com foco em backend, formado em Sistemas de Informação
 <p>
   <a href="https://github.com/LordWeli/TaskDone"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/project-taskdone-dark.svg">
-    <img src="./assets/br/project-taskdone-light.svg" width="33%" alt="TaskDone: PWA para listagem de tarefas diárias, com gamificação utilizando XP, streak e conquistas. TypeScript, PWA, Vitest.">
+    <img src="./assets/br/project-taskdone-light.svg" width="32.9%" alt="TaskDone: PWA para listagem de tarefas diárias, com gamificação utilizando XP, streak e conquistas. TypeScript, PWA, Vitest.">
   </picture></a>
   <a href="https://wesleynogueira.com"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/project-site-dark.svg">
-    <img src="./assets/br/project-site-light.svg" width="33%" alt="wesleynogueira.com: site pessoal (PT/EN) com testes dos conteúdos, e2e e acessibilidade. Next.js, Playwright.">
+    <img src="./assets/br/project-site-light.svg" width="32.9%" alt="wesleynogueira.com: site pessoal (PT/EN) com testes dos conteúdos, e2e e acessibilidade. Next.js, Playwright.">
   </picture></a>
   <a href="https://github.com/LordWeli/work_vision"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/br/project-workvision-dark.svg">
-    <img src="./assets/br/project-workvision-light.svg" width="33%" alt="Work Vision: vitrine para profissionais divulgarem seus serviços e receberem pedidos. Rails.">
+    <img src="./assets/br/project-workvision-light.svg" width="32.9%" alt="Work Vision: vitrine para profissionais divulgarem seus serviços e receberem pedidos. Rails.">
   </picture></a>
 </p>
 

@@ -39,15 +39,15 @@ Hi! I'm a backend-focused developer with a degree in Information Systems from Es
 <p>
   <a href="https://github.com/LordWeli/TaskDone"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-taskdone-dark.svg">
-    <img src="./assets/en/project-taskdone-light.svg" width="33%" alt="TaskDone: PWA for daily task lists, gamified with XP, streaks and achievements. TypeScript, PWA, Vitest.">
+    <img src="./assets/en/project-taskdone-light.svg" width="32.9%" alt="TaskDone: PWA for daily task lists, gamified with XP, streaks and achievements. TypeScript, PWA, Vitest.">
   </picture></a>
   <a href="https://wesleynogueira.com"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-site-dark.svg">
-    <img src="./assets/en/project-site-light.svg" width="33%" alt="wesleynogueira.com: personal website (PT/EN) with content, e2e and accessibility tests. Next.js, Playwright.">
+    <img src="./assets/en/project-site-light.svg" width="32.9%" alt="wesleynogueira.com: personal website (PT/EN) with content, e2e and accessibility tests. Next.js, Playwright.">
   </picture></a>
   <a href="https://github.com/LordWeli/work_vision"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/en/project-workvision-dark.svg">
-    <img src="./assets/en/project-workvision-light.svg" width="33%" alt="Work Vision: a showcase where professionals promote their services and receive requests. Rails.">
+    <img src="./assets/en/project-workvision-light.svg" width="32.9%" alt="Work Vision: a showcase where professionals promote their services and receive requests. Rails.">
   </picture></a>
 </p>
 
