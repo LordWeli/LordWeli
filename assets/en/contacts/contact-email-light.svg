@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="88" viewBox="0 0 200 88" role="img" aria-label="Send me an email: wesleysena.dev@gmail.com">
+  <title>Send me an email</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c2410c"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="199" height="87" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="16" y="16" width="34" height="34" rx="10" fill="url(#g)"/>
+  <g transform="translate(22 22) scale(0.9167)"><g fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="5.5" width="17" height="13" rx="2.5"/><path d="M4.5 7.5l7.5 5.5 7.5-5.5"/></g></g>
+  <text x="60" y="38" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#1f2328">Email</text>
+  <path d="M170 33.5l7-7m0 0h-5.2m5.2 0v5.2" fill="none" stroke="#8c959f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="16" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e">wesleysena.dev@gmail.com</text>
+</svg>

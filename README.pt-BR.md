@@ -7,7 +7,24 @@
 
 Olá! Sou desenvolvedor com foco em backend, formado em Sistemas de Informação pela Estácio e também técnico em informática pela EETEPA. Aqui você vai encontrar algumas coisas que construo fora do trabalho. A maioria nasceu de alguma dúvida, dificuldade e coisas que eu queria utilizar. De vez em quando também estou ao vivo na [Twitch](https://www.twitch.tv/wesleysenadev/).
 
-[Site](https://wesleynogueira.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/wesley-sena-nogueira/) &nbsp;/&nbsp; [E-mail](mailto:wesleysena.dev@gmail.com) &nbsp;/&nbsp; [Instagram](https://www.instagram.com/wesleysena.dev/)
+<p>
+  <a href="https://wesleynogueira.com/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/br/contacts/contact-website-dark.svg">
+    <img src="./assets/br/contacts/contact-website-light.svg" width="24.2%" alt="Site: wesleynogueira.com">
+  </picture></a>
+  <a href="https://www.linkedin.com/in/wesley-sena-nogueira/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/br/contacts/contact-linkedin-dark.svg">
+    <img src="./assets/br/contacts/contact-linkedin-light.svg" width="24.2%" alt="LinkedIn: in/wesley-sena-nogueira">
+  </picture></a>
+  <a href="mailto:wesleysena.dev@gmail.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/br/contacts/contact-email-dark.svg">
+    <img src="./assets/br/contacts/contact-email-light.svg" width="24.2%" alt="E-mail: wesleysena.dev@gmail.com">
+  </picture></a>
+  <a href="https://www.instagram.com/wesleysena.dev/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/br/contacts/contact-instagram-dark.svg">
+    <img src="./assets/br/contacts/contact-instagram-light.svg" width="24.2%" alt="Instagram: @wesleysena.dev">
+  </picture></a>
+</p>
 
 <br>
 

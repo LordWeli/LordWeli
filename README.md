@@ -7,7 +7,24 @@
 
 Hi! I'm a backend-focused developer with a degree in Information Systems from Estácio and, before that, a technical diploma in IT from EETEPA. Here you'll find some of the things I build outside of work. Most of them started from a question, a pain point, or something I wanted to use myself. Every now and then I also stream on [Twitch](https://www.twitch.tv/wesleysenadev/).
 
-[Website](https://wesleynogueira.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/wesley-sena-nogueira/) &nbsp;/&nbsp; [Email](mailto:wesleysena.dev@gmail.com) &nbsp;/&nbsp; [Instagram](https://www.instagram.com/wesleysena.dev/)
+<p>
+  <a href="https://wesleynogueira.com/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/contacts/contact-website-dark.svg">
+    <img src="./assets/en/contacts/contact-website-light.svg" width="24.2%" alt="Website: wesleynogueira.com">
+  </picture></a>
+  <a href="https://www.linkedin.com/in/wesley-sena-nogueira/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/contacts/contact-linkedin-dark.svg">
+    <img src="./assets/en/contacts/contact-linkedin-light.svg" width="24.2%" alt="LinkedIn: in/wesley-sena-nogueira">
+  </picture></a>
+  <a href="mailto:wesleysena.dev@gmail.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/contacts/contact-email-dark.svg">
+    <img src="./assets/en/contacts/contact-email-light.svg" width="24.2%" alt="Email: wesleysena.dev@gmail.com">
+  </picture></a>
+  <a href="https://www.instagram.com/wesleysena.dev/"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/en/contacts/contact-instagram-dark.svg">
+    <img src="./assets/en/contacts/contact-instagram-light.svg" width="24.2%" alt="Instagram: @wesleysena.dev">
+  </picture></a>
+</p>
 
 <br>
 
